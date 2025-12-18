@@ -68,6 +68,9 @@ export const Footer = () => {
             © {new Date().getFullYear()} FloCare. Made with{" "}
             <Heart className="w-3 h-3 inline text-primary fill-current" /> for women everywhere.
           </p>
+          <p className="text-sm text-muted-foreground mt-2">
+            Built by <span className="font-medium text-foreground">Prince Charles Allotey</span> | Contact: +233559002698
+          </p>
         </div>
       </div>
     </footer>
