@@ -63,9 +63,6 @@ export const Footer = () => {
           </div>
         </div>
 
->>>>>>> 4fd722e85d5840d5d96a49ff3d31d1aab52a1a26
-        </div>
-=======
         <div className="mt-10 pt-6 border-t border-border text-center">
           <p className="text-sm text-muted-foreground">
             © {new Date().getFullYear()} FloCare. Made with{" "}
@@ -74,9 +71,6 @@ export const Footer = () => {
           <p className="text-sm text-muted-foreground mt-2">
             Built by <span className="font-medium text-foreground">Prince Charles Allotey</span> | Contact: +233559002698
           </p>
-        </div>
-=======
->>>>>>> 4fd722e85d5840d5d96a49ff3d31d1aab52a1a26
         </div>
       </div>
     </footer>
